@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1{
+    margin:0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 10rem;
+}
+h2{
+    margin-top: 0;
+    padding-top: 5%;
+    font-family: 'Satisfy', cursive;
+    font-size: 3rem;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+
+}
+h4{
+    width: 10%;
+    display: inline;
+    text-align: start;
+    margin-inline-end: 5px;
+    margin-inline-start: 2px;
+}
+
+
+p{
+    text-align: start;
+    padding-left: 5rem;
+    font-family: 'Courgette', cursive;
+    font-size: 1.5em;
+    line-height: 1.5;
+}
+/* 
+.top-field{
+    background-color: aquamarine; 
+    /*
+    container-fluid
+    p-5 
+    bg-primary 
+    text-white 
+    text-center" */
+/* } */ */
+
+
+.top-div{
+    background-color:#E3FDFD;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    right:300px;
+    top:10%;
+}
+
+.bottom-cloud{
+    position:absolute;
+    height: 150px;
+    width: 150px;
+    /* margin-right: 10px; */
+    
+    left:250px;
+    bottom: 50%;
+
+}
+
+.mid-top-cloud{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    right:360px;
+    top:9%;
+}
+
+
+.mid-bottom-cloud{
+    position:absolute;
+    height: 150px;
+    width: 150px;
+    /* margin-right: 10px; */
+    
+    left:250px;
+    bottom: 60rem;
+
+}
+
+.Title{
+    font-size: 5.5rem;
+    padding-top: 2%;
+}
+
+.exp1{
+    font-size: 10rem;
+}
+
+.det{
+    padding-top:5%;
+}
+
+
+.way:hover{
+    color:#CD6688;
+}
+.way1{
+    height: 5em;
+    /* padding-top:10px; */
+    background-color:#45CFDD;
+}
+
+.wave:hover{
+    color:#CD6688;
+}
+
+.wave_1{
+    font-size: 30px;
+    margin-left: 20%;
+    font-size: 3rem;
+    /* padding-bottom: 5%; */
+}
+
+.wave{
+    margin-left: 30%;
+    font-size: 3rem;
+}
+
+.way{
+    text-align: center;
+}
+.certificate{
+    text-align: center;
+    
+}
+
+
+#image{
+    height: 20rem;
+    width: 20rem;
+}
+
+#pwc{
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+}
+
+#jio{
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+}
+
+#prof{
+    margin-top: 0;
+    padding-top: 5%;
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+}
+
+
+
+#mid-tag{
+    margin: 0;
+    font-size: 3rem;
+}
+#Name{
+    padding-top: 5%;
+    font-size: 5rem;
+    text-decoration: solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
